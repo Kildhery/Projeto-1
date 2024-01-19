@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img {
+    background-color: #555;
+    height: 500;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 96px;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+
+
+p{
+font-size: 18px;
+text-align: justify;
+text-indent: 90px;
+}
+
+.bg {
+    height: 500;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
